@@ -1,1 +1,1 @@
-Training plan generation plan.
+Training plan generation task.
